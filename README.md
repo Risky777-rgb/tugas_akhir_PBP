@@ -128,7 +128,7 @@ Website ini dibuat sebagai latihan sekaligus tugas proyek portofolio dengan foku
 Proyek ini bersifat **open-source** dan dapat digunakan untuk keperluan pribadi, pembelajaran, atau pengembangan lebih lanjut.
 
 ---
-https://github.com/Risky777-rgb/tugas_akhir_PBP/blob/main/ss/MIFTACHUR-RISKY-About-Me-10-20-2025_11_01_AM.png
-https://github.com/Risky777-rgb/tugas_akhir_PBP/blob/main/ss/MIFTACHUR-RISKY-Home-10-20-2025_11_00_AM.png
-https://github.com/Risky777-rgb/tugas_akhir_PBP/blob/main/ss/MIFTACHUR-RISKY-Portfolio-10-20-2025_11_01_AM.png
+![Home Page](https://github.com/Risky777-rgb/tugas_akhir_PBP/blob/main/ss/MIFTACHUR-RISKY-About-Me-10-20-2025_11_01_AM.png)
+![Home Page](https://github.com/Risky777-rgb/tugas_akhir_PBP/blob/main/ss/MIFTACHUR-RISKY-Home-10-20-2025_11_00_AM.png)
+![Home Page](https://github.com/Risky777-rgb/tugas_akhir_PBP/blob/main/ss/MIFTACHUR-RISKY-Portfolio-10-20-2025_11_01_AM.png)
  *"Code your future, design your identity."* 
